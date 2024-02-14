@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.visible-desktop {
+  display: inline !important;
+}
+
+.visible-mobile {
+  display: none !important;
+}
+
+/* Hero-Image */
+.hero-image {
+  margin: auto;
+  max-width: 1300px;
+}
+.hero-image img {
+  width: 100%;
+  height: auto;
+}
+
+main {
+  max-width: 900px;
+  margin: 24px auto;
+  padding: 24px;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 42px;
+  color: #464646;
+  max-width: 1000px;
+  margin-bottom: 16px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 32px;
+  color: #464646;
+  max-width: 1000px;
+  margin-bottom: 16px;
+}
+
+p {
+  font-size: 16px;
+  color: #464646;
+  line-height: 26px;
+  text-align: justify;
+  text-justify: inter-word;
+  margin-bottom: 16px;
+}
+
+p:last-child {
+  margin-bottom: none;
+}
+
+section.downloads {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+  margin: auto;
+  margin-bottom: 64px;
+  align-items: center;
+  padding: 0px 24px;
+}
+
+.files {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+a.download-link {
+  font-size: 16px;
+  color: #464646;
+  list-style-type: none;
+  text-decoration: none;
+  border-bottom: 2px solid #A0CF42;
+}
+
+a.download-link:last-child {
+  margin-bottom: none;
+}
+
+a.button {
+  background-color: #A0CF42;
+  padding: 12px 24px 12px 24px;
+  border-radius: 100px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  display: inline-block;
+  font-weight: 400;
+}
+
+a.download-link:hover {
+  background-color: #A0CF42;
+  color: #464646;
+}
+
+@media only screen and (max-width: 600px) {
+  .visible-desktop {
+    display: none !important;
+  }
+  .visible-mobile {
+    display: inline !important;
+  }
+}/*# sourceMappingURL=main.css.map */
