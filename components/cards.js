@@ -39,7 +39,7 @@ class Cards extends HTMLElement {
             padding: 12px 24px 12px 24px;
             border-radius: 100px;
             text-decoration: none;
-            color: #fff;
+            color: black;
             font-size: 16px;
             display: inline-block;
             font-weight: 400;
