@@ -19,7 +19,7 @@ class Header extends HTMLElement {
     </style>
     <header>
         <a href="index.html">
-          <img src="./assets/logo/main-logo.png" alt="Logo Virtual Operator">
+          <img src="./assets/logo/main-logo.webp" alt="Logo Virtual Operator" width="160" height="28">
         </a>
     </header>
       `;

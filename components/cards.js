@@ -57,17 +57,17 @@ class Cards extends HTMLElement {
     </style>
     <div class="cards">
         <div class="card">
-            <img src="./assets/logo/serv-net-logo.png" alt="Logo serv-net">
+            <img src="./assets/logo/serv-net-logo.webp" alt="Logo serv-net" width="161" height="75">
             <h5>Informacja dla abonentów</h5>
             <a href="#" class="button">Sprawdź</a>
         </div>
         <div class="card">
-            <img src="./assets/logo/echostar-logo.png" alt="Logo echostar">
+            <img src="./assets/logo/echostar-logo.webp" alt="Logo echostar" width="161" height="45">
             <h5>Informacja dla abonentów</h5>
             <a href="#" class="button">Sprawdź</a>
         </div>
         <div class="card">
-            <img src="./assets/logo/virtuaoperator-logo.png" alt="Logo virtuaoperator">
+            <img src="./assets/logo/virtuaoperator-logo.webp" alt="Logo virtuaoperator" width="161" height="49">
             <h5>Informacja dla abonentów</h5>
             <a href="#" class="button">Sprawdź</a>
         </div>
