@@ -50,28 +50,20 @@ class Footer extends HTMLElement {
       <footer>
       <nav>
           <ul>
-              <li><a href="#">Dla operatorów</a></li>
-              <li><a href="#">Dokumentacja abonencka</a></li>
+              <li><a href="baza-dokumentow.html"><b>Baza dokumentów</b></a></li>
               <li><a href="#">Oferty promocyjne</a></li>
-              <li><a href="#">Reklamacje</a></li>
+              <li><a href="#">Dokumentacja abonencka</a></li>
           </ul>
           <ul>
-              <li><a href="ochrona-danych-osobowych.html">Ochrona danych osobowych</a></li>
-              <li><a href="#">Regulaminy</a></li>
-              <li><a href="#">Inne</a></li>
-              <li><a href="#">Informacje dla operatorów</a></li>
-          </ul>
-          <ul>
-              <li><a href="#">Cookies</a></li>
-              <li><a href="#">Regulaminy szczegółowe</a></li>
-              <li><a href="#">FAQ</a></li>
-              <li><a href="#">Ryzyka</a></li>
-          </ul>
-          <ul>
+              <li><a href="ochrona-danych-osobowych.html"><b>Ochrona danych osobowych</b></a></li>
+              <li><a href="cookies.html"><b>Cookies</b></a></li>
               <li><a href="#">Obowiązki informacyjne</a></li>
-              <li><a href="#">Cenniki</a></li>
+          </ul>
+          <ul>
               <li><a href="#">Reklamacje informacje</a></li>
-              <li><a href="udogodnienia-dla-niepelnosprawnych.html">Udogodnienia dla niepełnosprawnych</a></li>
+              <li><a href="udogodnienia-dla-niepelnosprawnych.html"><b>Udogodnienia dla niepełnosprawnych</b></a></li>
+              <li><a href="#">Inne</a></li>
+              <li><a href="kontakt.html"><b>Kontakt</b></a></li>
           </ul>
       </nav>
   </footer>
