@@ -60,7 +60,7 @@ class Footer extends HTMLElement {
               <li><a href="obowiazki-informacyjne.html"><b>Obowiązki informacyjne</b></a></li>
           </ul>
           <ul>
-              <li><a href="reklamacje.html">Reklamacje informacje</a></li>
+              <li><a href="reklamacje.html"><b>Reklamacje informacje</b></a></li>
               <li><a href="udogodnienia-dla-niepelnosprawnych.html"><b>Udogodnienia dla niepełnosprawnych</b></a></li>
               <li><a href="#">Inne</a></li>
               <li><a href="kontakt.html"><b>Kontakt</b></a></li>
