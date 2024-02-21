@@ -48,6 +48,13 @@ p{
 p:last-child{
     margin-bottom: none;
 }
+li{
+    font-size: 16px;
+    color: #464646;
+    line-height: 26px;
+    text-align: justify;
+    text-justify: inter-word;
+}
 section.downloads{
     text-align: center;
     display: flex;
