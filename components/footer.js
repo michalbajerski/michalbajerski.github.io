@@ -51,7 +51,7 @@ class Footer extends HTMLElement {
       <nav>
           <ul>
               <li><a href="baza-dokumentow.html"><b>Baza dokumentów</b></a></li>
-              <li><a href="#">Oferty promocyjne</a></li>
+              <li><a href="oferty-promocyjne.html"><b>Oferty promocyjne</b></a></li>
               <li><a href="#">Dokumentacja abonencka</a></li>
           </ul>
           <ul>
