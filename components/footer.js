@@ -58,6 +58,7 @@ class Footer extends HTMLElement {
               <li><a href="ochrona-danych.html"><b>Ochrona danych</b></a></li>
               <li><a href="cookies.html"><b>Cookies</b></a></li>
               <li><a href="obowiazki-informacyjne.html"><b>Obowiązki informacyjne</b></a></li>
+              <li><a href="jakosc-swiadczonych-uslug.html"><b>Jakość świadczonych usług</b></a></li>
           </ul>
           <ul>
               <li><a href="reklamacje.html"><b>Reklamacje informacje</b></a></li>
