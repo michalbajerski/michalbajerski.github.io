@@ -58,22 +58,22 @@ class CardsBazaDokumentow extends HTMLElement {
     <div class="cards">
         <div class="card">
             <img src="./assets/logo/serv-net-logo.webp" alt="Logo serv-net" width="161" height="75">
-            <h5>Baza dokumentów VLO<br>pod marką Servcom</h5>
+            <h5>Baza dokumentów Virtual Operator pod marką Servcom</h5>
             <a href="https://serv-net.pl/baza-dokumentow.php" class="button">Dostępna jest tutaj</a>
         </div>
         <div class="card">
             <img src="./assets/logo/echostar-logo.webp" alt="Logo echostar" width="161" height="45">
-            <h5>Baza dokumentów VLO<br>pod marką Echostar</h5>
+            <h5>Baza dokumentów Virtual Operator pod marką Echostar</h5>
             <a href="#" class="button">Dostępna jest tutaj</a>
         </div>
         <div class="card">
             <img src="./assets/logo/virtuaoperator-logo.webp" alt="Logo virtuaoperator" width="161" height="49">
-            <h5>Baza dokumentów VLO<br>pod marką VO</h5>
+            <h5>Baza dokumentów Virtual Operator pod marką VO</h5>
             <a href="https://www.virtuaoperator.pl/dokumenty/" class="button">Dostępna jest tutaj</a>
         </div>
         <div class="card">
             <img src="./assets/logo/fiberx-logo.png" alt="Logo virtuaoperator" width="161" height="49">
-            <h5>Baza dokumentów VLO<br>pod marką FiberX</h5>
+            <h5>Baza dokumentów Virtual Operator pod marką FiberX</h5>
             <a href="https://www.fiberx.pl/dokumenty.html" class="button">Dostępna jest tutaj</a>
         </div>
     </div>
