@@ -57,7 +57,7 @@ class CardsJakoscUslug extends HTMLElement {
     </style>
     <div class="cards">
         <div class="card">
-            <img src="./assets/logo/fiberx-logo.png" alt="Logo serv-net" width="161" height="75">
+            <img src="./assets/logo/fiberx-logo.png" alt="Logo fiberx" width="161" height="75">
             <h5>FiberX</h5>
             <a href="https://www.fiberx.pl/o-nas.html" class="button">Dostępna jest tutaj</a>
         </div>
@@ -66,8 +66,13 @@ class CardsJakoscUslug extends HTMLElement {
             <h5>Echostar</h5>
             <a href="https://www.echostar.pl/o-firmie" class="button">Dostępna jest tutaj</a>
         </div>
+        <div class="card">
+            <img src="./assets/logo/serv-net-logo.webp" alt="Logo serv-net" width="161" height="45">
+            <h5>Serv-net</h5>
+            <a href="https://serv-net.pl/ " class="button">Dostępna jest tutaj</a>
+        </div>
     </div>
-    <center><h5>Servcom</h5></center>
+    <!-- <center><h5>Servcom</h5></center>
     <table>
         <thead>
         <tr>
@@ -93,7 +98,7 @@ class CardsJakoscUslug extends HTMLElement {
             <td>96%</td>
         </tr>
         </tbody>
-        </table><br><br>
+        </table><br><br>-->
       `;
     }
   }
